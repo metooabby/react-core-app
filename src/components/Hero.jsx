@@ -6,7 +6,7 @@ function Hero() {
       <img
         src={banner}
         alt="Hero Banner"
-        className="w-[1248px] h-[512px] rounded-[24px] object-cover"
+        className="w-[1248px] h-[512px] rounded-3xl object-cover"
       />
     </section>
   );
